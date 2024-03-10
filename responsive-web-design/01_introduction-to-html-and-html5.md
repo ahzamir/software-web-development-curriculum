@@ -19,22 +19,7 @@ In simple terms, HTML is like the skeleton of a web page, providing the structur
 
 _Now let's explore everything about HTML and HTML5 in detail._
 
-### HTML tags and attributes
-HTML tags are used to define the structure and content of a web page. They are enclosed in angle brackets `< >` and come in pairs: an opening tag and a closing tag. The opening tag is the name of the element, surrounded by angle brackets. The closing tag is the same as the opening tag, except it includes a forward slash before the element name. For example, `<h1>` is the opening tag for a heading, and `</h1>` is the closing tag.
-
-HTML attributes provide additional information about an element. They are always included in the opening tag and are made up of a name and a value. For example, the `href` attribute in the `<a>` tag specifies the URL of the link.
-
-### HTML elements
-HTML elements are the building blocks of a web page. They are made up of tags and content, and they define the structure and content of a web page. For example, the `<h1>` element is used to define the main heading of a page, and the `<p>` element is used to define a paragraph of text.
-
-### What is Semantic HTML?
-Semantic HTML is a coding style that focuses on using HTML tags based on their meaning, rather than just for appearance. For example, using the `<h1>` tag for the main heading, the `<p>` tag for paragraphs, and the `<a>` tag for links.
-
-Why is semantic HTML important?
-Semantic tags accurately describe the content on a webpage. This has several benefits:
-- Easier code navigation when updating or fixing bugs.
-- Improved Search Engine Optimization (SEO) to make your content more visible on search engines.
-- Accessibility for users with special needs, such as screen readers for visually impaired users.
+- [HTML tags and attributes.](./html-tags-and-attributes.md)
 
 ## 📹 Video
 - Please watch the following videos:
