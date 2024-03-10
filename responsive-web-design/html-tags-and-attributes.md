@@ -1,0 +1,54 @@
+# HTML Tags and Attributes
+
+### HTML tags
+HTML tags are used to define the structure and content of a web page. They are enclosed in angle brackets `< >` and come in pairs: an opening tag and a closing tag. The opening tag is the name of the element, surrounded by angle brackets. The closing tag is the same as the opening tag, except it includes a forward slash before the element name.
+
+For example, the `<h1>` tag is used to define the main heading of a page. To close the `<h1>` tag, you use `</h1>`. This tells the browser that the content between the opening and closing tags should be treated as a main heading.
+
+Understanding HTML tags is essential for creating web pages. They allow you to structure your content and add functionality to your website. By using the right tags, you can create headings, paragraphs, links, images, and much more.
+
+Remember, HTML is a markup language, which means it uses tags to mark up the content and give it meaning. So, think of HTML tags as the building blocks that define the structure and content of your web page.
+
+Watch the following videos to learn more about HTML tags:
+
+- [What are HTML tags?](https://www.youtube.com/watch?v=rOPKC49gTkk)
+
+- [Common HTML Tags](https://www.youtube.com/watch?v=tv6bxtCjqDI)
+
+- [Learn every Common HTML tags](https://www.youtube.com/watch?v=ZhULGD5hNQs)
+
+### HTML attributes
+HTML attributes provide additional information about an element. They are always included in the opening tag and are made up of a name and a value. For example, the `href` attribute in the `<a>` tag specifies the URL of the link.
+
+Attributes can be used to change the behavior or appearance of an element. For example, the `src` attribute in the `<img>` tag specifies the source of the image, and the `alt` attribute specifies the alternative text for the image.
+
+Understanding HTML attributes is essential for creating interactive and visually appealing web pages. They allow you to add links, images, and other interactive elements to your website. By using the right attributes, you can customize the appearance and behavior of your web page.
+
+Watch the following videos to learn more about HTML attributes:
+
+- [HTML Attributes](https://www.youtube.com/watch?v=29IbTXYRo5U)
+
+- [HTML Attributes and Values](https://www.youtube.com/watch?v=HSEA6BzgagI)
+
+- [HTML Tags and Attributes](https://www.youtube.com/watch?v=lcZorMlEnhU)
+
+### HTML elements
+HTML elements are the building blocks of a web page. They are made up of tags and content, and they define the structure and content of a web page. For example, the `<h1>` element is used to define the main heading of a page, and the `<p>` element is used to define a paragraph of text.
+
+Watch the following videos to learn more about HTML elements:
+
+- [HTML Elements](https://www.youtube.com/watch?v=3JluqTojuME)
+
+### What is Semantic HTML?
+Semantic HTML is a coding style that focuses on using HTML tags based on their meaning, rather than just for appearance. For example, using the `<h1>` tag for the main heading, the `<p>` tag for paragraphs, and the `<a>` tag for links.
+
+Why is semantic HTML important?
+Semantic tags accurately describe the content on a webpage. This has several benefits:
+- Easier code navigation when updating or fixing bugs.
+- Improved Search Engine Optimization (SEO) to make your content more visible on search engines.
+- Accessibility for users with special needs, such as screen readers for visually impaired users.
+
+Watch the following videos to learn more about Semantic HTML:
+
+- [What is Semantic HTML?](https://www.youtube.com/watch?v=3JluqTojuME)
+
