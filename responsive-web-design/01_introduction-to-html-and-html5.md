@@ -22,15 +22,15 @@ _Now let's explore everything about HTML and HTML5 in detail._
 - [HTML tags and attributes.](./html-tags-and-attributes.md)
 
 ## 📹 Video
-- Please watch the following videos:
-    - Basic HTML and HTML5:
-        - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=qz0aGYrrlhU) 
-        - [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=UB1O30fR-EE) 
-        - [HTML Tutorial for Beginners: HTML Crash Course [2021]](https://www.youtube.com/watch?v=8gNrZ4lAnAw)
-        
-    - How to use freecodecamp:
+Please watch the following videos:
 
-    [![Video](https://img.youtube.com/vi/9DCpQG1KVGk/0.jpg)](https://www.youtube.com/watch?v=9DCpQG1KVGk)
+- [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=qz0aGYrrlhU) 
+- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=UB1O30fR-EE) 
+- [HTML Tutorial for Beginners: HTML Crash Course [2021]](https://www.youtube.com/watch?v=8gNrZ4lAnAw)
+    
+How to use freecodecamp:
+
+[![Video](https://img.youtube.com/vi/9DCpQG1KVGk/0.jpg)](https://www.youtube.com/watch?v=9DCpQG1KVGk)
 
 
 ## 🔧 Instructions
