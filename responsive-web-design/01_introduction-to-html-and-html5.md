@@ -37,12 +37,14 @@ How to use freecodecamp:
 - Create an account on [freecodecamp](https://www.freecodecamp.org) and familiarize yourself with the platform using the video above. Then complete all the challenges provided in the exercises section below and submit your work.
 
 ## 🚀 Exercises
-- Please complete the following exercises:
-    - [ ] [Learn HTML by building a cat photo app](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
+Please complete the following exercises:
+
+- [Learn HTML by building a cat photo app](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 
 ## 📫 Submission
-- After completing the exercises, please fill in the following form and submit your work so that we can know your progress:
-    - [Submission Form](https://airtable.com/shrTKszJIyALWIPnb).
+After completing the exercises, please fill in the following form and submit your work so that we can know your progress:
+
+- [Submission Form](https://airtable.com/shrTKszJIyALWIPnb).
 
 <details>
     <summary>
