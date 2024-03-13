@@ -34,7 +34,7 @@ How to use freecodecamp:
 
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](https://www.freecodecamp.org) and familiarize yourself with the platform using the video above. Then complete all the challenges provided in the exercises section below and submit your work.
+Create an account on [freecodecamp](https://www.freecodecamp.org) and familiarize yourself with the platform using the video above. Then complete all the challenges provided in the exercises section below and submit your work.
 
 ## 🚀 Exercises
 Please complete the following exercises:
@@ -44,7 +44,7 @@ Please complete the following exercises:
 ## 📫 Submission
 After completing the exercises, please fill in the following form and submit your work so that we can know your progress:
 
-- [Submission Form](https://airtable.com/shrTKszJIyALWIPnb).
+- [Submission Form](https://airtable.com/shrTKszJIyALWIPnb)
 
 <details>
     <summary>
