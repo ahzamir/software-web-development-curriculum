@@ -24,9 +24,8 @@ _Now let's explore everything about HTML and HTML5 in detail._
 ## 📹 Video
 Please watch the following videos:
 
-- [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=qz0aGYrrlhU) 
-- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=UB1O30fR-EE) 
-- [HTML Tutorial for Beginners: HTML Crash Course [2021]](https://www.youtube.com/watch?v=8gNrZ4lAnAw)
+- [HTML Tutorial - Website Crash Course for Beginners](https://www.youtube.com/watch?v=916GWv2Qs08)
+- [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU) 
     
 How to use freecodecamp:
 
@@ -57,7 +56,6 @@ After completing the exercises, please fill in the following form and submit you
 
 <br>
     <ul>
-        <li><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU">HTML Crash Course For Absolute Beginners</a></li>
         <li><a href="https://www.youtube.com/watch?v=UB1O30fR-EE">HTML Full Course - Build a Website Tutorial</a></li>
         <li><a href="https://www.youtube.com/watch?v=8gNrZ4lAnAw">HTML Tutorial for Beginners: HTML Crash Course [2021]</a></li>
     </ul>
