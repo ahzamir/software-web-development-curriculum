@@ -23,29 +23,25 @@ Web development is the process of building and maintaining websites and web appl
 _Check the curriculum overview below to see the topics covered in this curriculum._
 
 <details>
-    <summary>
-        <h4>Responsive Web Design</h4>
-    </summary>
-    <hr style="height:1px;border-width:0;color:gray;background-color:dark">
+<summary>How Websites Work</summary>
 
-<br>
-    <ul>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/01_introduction-to-html-and-html5.md" target="_blank">1: Introduction to HTML and HTML5</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-css-and-basic-css.md" target="_blank">2: Introduction to CSS and Basic CSS</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-css-colors.md" target="_blank">3: Introduction to CSS Colors</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-html-forms.md" target="_blank">4: Introduction to HTML Forms</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-css-box-model.md"
-        target="_blank">5: Introduction to CSS Box Model</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-css-flexbox.md" target="_blank">6: Introduction to CSS Flexbox</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-typography.md"
-        target="_blank">7: Introduction to Typography</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-accessibility.md"
-        target="_blank">8: Introduction to Accessibility</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/introduction-to-css-selectors.md"
-        target="_blank">9: Introduction to CSS Selectors</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/intermediate-css-concepts.md"
-        target="_blank">10: Intermediate CSS Concepts</a></li>
-        <li><a href="https://github.com/ahzamir/software-web-development-curriculum/blob/main/responsive-web-design/responsice-web-design-concepts.md"
-        target="_blank">11: Responsive Web Design Concepts</a></li>
-    </ul>
+- [1: How Websites Work](./how-websites-work.md)
+
 </details>
+<details>
+<summary>Responsive Web Design</summary>
+
+- [2: Introduction to HTML and HTML5](./responsive-web-design/02_introduction-to-html-and-html5.md)
+- [3: Introduction to CSS and Basic CSS](./responsive-web-design/03_introduction-to-css-and-basic-css.md)
+- [4: CSS Colors](./responsive-web-design/04_css-colors.md)
+- [5: HTML Forms](./responsive-web-design/05_html-forms.md)
+- [6: CSS Box Model](./responsive-web-design/06_css-box-model.md)
+- [7: CSS Flexbox](./responsive-web-design/07_css-flexbox.md)
+- [8: Typography](./responsive-web-design/08_typography.md)
+- [9: Accessibility](./responsive-web-design/09_accessibility.md)
+- [10: CSS Selectors](./responsive-web-design/10_css-selectors.md)
+- [11: Intermediate CSS Concepts](./responsive-web-design/11_css-concepts.md)
+- [12: Responsive Web Design Concepts](./responsive-web-design/12_responsive-web-design-concepts.md)
+
+</details>
+
