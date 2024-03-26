@@ -19,17 +19,17 @@ In simple terms, HTML is like the skeleton of a web page, providing the structur
 
 ## 📹 Video
 Please watch the following videos:
-- [HTML?](https://www.youtube.com/watch?v=xKuJrmlCdig)
+- [HTML?](../videos/introduction-to-html-and-html5/y2mate.com%20-%20What%20is%20HTML_1080p.mp4)
 
-- [HTML in 5 Min](https://www.youtube.com/watch?v=salY_Sm6mv4&pp=ygUMd2hhdCBpcyBodG1s)
+- [HTML in 5 Min](../videos/introduction-to-html-and-html5/y2mate.com%20-%20HTML%20in%205%20minutes_1080pFHR.mp4)
 
-- [What is HTML?](https://www.youtube.com/watch?v=W-6OY9eI3hk)
+- [What is HTML?](../videos/introduction-to-html-and-html5/What%20is%20HTML_.mp4)
 
-- [What is HTML? What Does It Do?](https://www.youtube.com/watch?v=u0OeZfIfBRI)
+- [What is HTML? What Does It Do?](../videos/introduction-to-html-and-html5/y2mate.com%20-%20What%20is%20HTML%20What%20Does%20It%20Do%20And%20What%20Is%20It%20Used%20For_1080p.mp4)
 
-- [What is HTML5](https://www.youtube.com/watch?v=mzPxo7Y6JyA)
+- [What is HTML5](../videos/introduction-to-html-and-html5/What%20is%20HTML5_.mp4)
 
-- [How to use freecodecamp](https://www.youtube.com/watch?v=9DCpQG1KVGk)
+- [How to use freecodecamp](../videos/how-to-use-freecodecamp/y2mate.com%20-%20How%20to%20Use%20FreeCodeCamp_1080p.mp4)
 
 
 _Now let's explore HTML and HTML5 Basics._

@@ -27,11 +27,11 @@ Understanding accessibility is essential for web developers, as it allows them t
 
 ## 📹 Video
 Please watch the following videos:
-- [What is Web Accessibility in 60 sec](https://www.youtube.com/watch?v=hufMi9LZX2I)
-- [Why Accessibility Matters](https://www.youtube.com/watch?v=o2vDmDGlRz8)
-- [Accessible Web Design: What Is It & How To Do It](https://www.youtube.com/watch?v=-ao_Kc_8rpE)
-- [Accessibility](https://www.youtube.com/watch?v=68h6bq1aYZo)
-- [Make Websites Accessible](https://www.youtube.com/watch?v=1A6SrPwmGpg)
+- [What is Web Accessibility in 60 sec](../videos/accessibility/y2mate.com%20-%20What%20is%20Web%20Accessibility%20in%2060%20seconds_1080p.mp4)
+- [Why Accessibility Matters](../videos/accessibility/y2mate.com%20-%20Why%20Accessibility%20Matters_1080p.mp4)
+- [Accessible Web Design: What Is It & How To Do It](../videos/accessibility/y2mate.com%20-%20Accessible%20Web%20Design%20What%20Is%20It%20%20How%20To%20Do%20It_1080p.mp4)
+- [Accessibility](../videos/accessibility/y2mate.com%20-%20Web%20Accessibility%20Guidelines%20in%20About%207%20Minutes_1080p.mp4)
+- [Make Websites Accessible](../videos/accessibility/y2mate.com%20-%20You%20Suck%20At%20Accessibility%20But%20You%20Dont%20Have%20To_1080pFH.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

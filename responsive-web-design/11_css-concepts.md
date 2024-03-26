@@ -26,7 +26,7 @@ CSS is a powerful styling language that allows you to control the appearance of 
 
 ## 📹 Video
 Please watch the following videos:
-- [CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [CSS](../videos/css-concepts/CSS%20Tutorial%20-%20Zero%20to%20Hero%20(Complete%20Course).mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

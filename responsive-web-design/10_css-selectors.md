@@ -28,9 +28,9 @@ Understanding CSS selectors is essential for web developers, as it allows them t
 
 ## 📹 Video
 Please watch the following videos:
-- [CSS Selectors Made Easy](https://www.youtube.com/watch?v=dcCCOiQ1ZuM)
-- [Learn Every CSS Selector In 20 Minutes](https://www.youtube.com/watch?v=l1mER1bV0N0)
-- [CSS Selectors](https://www.youtube.com/watch?v=Z07d9Vu7GKM)
+- [CSS Selectors Made Easy](../videos/css-selectors/y2mate.com%20-%20CSS%20SELECTORS%20MADE%20EASY%20%20HTML%20CSS%20Tutorial%20for%20Beginners_1080p.mp4)
+- [Learn Every CSS Selector In 20 Minutes](../videos/css-selectors/y2mate.com%20-%20Learn%20Every%20CSS%20Selector%20In%2020%20Minutes_1080pFH.mp4)
+- [CSS Selectors](../videos/css-selectors/y2mate.com%20-%20CSS%20Selectors%20Tutorial%20For%20Beginners%20%20Selectors%20In%20CSS%20%20CSS%20Tutorial%20For%20Beginners%20%20Simplilearn_1080p.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

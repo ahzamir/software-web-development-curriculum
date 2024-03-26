@@ -38,10 +38,10 @@ Understanding the CSS box model is essential for web developers, as it allows th
 
 ## 📹 Video
 Please watch the following videos:
-- [CSS Box Model](https://www.youtube.com/watch?v=YIxOwIuWp3c)
-- [CSS Box Model In 8 Min](https://www.youtube.com/watch?v=rIO5326FgPE)
-- [CSS Box Model for Beginners](https://www.youtube.com/watch?v=L9khsrjMwKw)
-- [Learn CSS BOX MODEL - With Real World Examples](https://www.youtube.com/watch?v=nSst4-WbEZk)
+- [CSS Box Model](../videos/css-box-model/y2mate.com%20-%2019%20%20CSS%20Box%20Model%20%20CSS%20Full%20Tutorial_1080p.mp4)
+- [CSS Box Model In 8 Min](../videos/css-box-model/y2mate.com%20-%20Learn%20CSS%20Box%20Model%20In%208%20Minutes_1080pFH.mp4)
+- [CSS Box Model for Beginners](../videos/css-box-model/y2mate.com%20-%20CSS%20Box%20Model%20Tutorial%20for%20Beginners_1080p.mp4)
+- [Learn CSS BOX MODEL - With Real World Examples](../videos/css-box-model/y2mate.com%20-%20Learn%20CSS%20BOX%20MODEL%20%20With%20Real%20World%20Examples_1080pFHR.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

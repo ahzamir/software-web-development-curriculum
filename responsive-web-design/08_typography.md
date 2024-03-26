@@ -24,9 +24,9 @@ Understanding typography is essential for web developers, as it allows them to c
 
 ## 📹 Video
 Please watch the following videos:
-- [What is Typography?](https://www.youtube.com/watch?v=xic_5zduz1A)
-- [Typography](https://www.youtube.com/watch?v=jggV5PucL1A)
-- [TYPOGRAPHY | 10 Minutes](https://www.youtube.com/watch?v=GCluIaNmOG0&t=14s)
+- [What is Typography?](../videos/typography/What%20Is%20Typography_.mp4)
+- [Typography](../videos/typography/y2mate.com%20-%20Typography%20With%20CSS_1080p.mp4)
+- [TYPOGRAPHY | 10 Minutes](../videos/typography/y2mate.com%20-%20TYPOGRAPHY%20%20Everything%20I%20know%20about%20Type%20in%2010%20Minutes_1080p.mp4)
 
 
 ## 🔧 Instructions

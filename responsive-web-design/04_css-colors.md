@@ -31,10 +31,10 @@ Understanding CSS colors is essential for web developers, as it allows them to c
 
 ## 📹 Video
 Please watch the following videos:
-- [CSS Colors](https://www.youtube.com/watch?v=srg4sIbzE1k)
-- [CSS Colors in 4 Min](https://www.youtube.com/watch?v=LwbKb2J8iy8)
-- [CSS Colors Tutorial For Beginners](https://www.youtube.com/watch?v=Ddc-IIrIot0)
-- [CSS Colors, Hex, RGB, RGBA, Predefined Colors](https://www.youtube.com/watch?v=HxztHgRN8I4)
+- [CSS Colors](../videos/css-colors/y2mate.com%20-%20CSS%20Color%20Tutorial%20%20CSS%20Colors%20%20Colors%20In%20CSS%20%20CSS%20Tutorial%20For%20Beginners%20%20Simplilearn_1080p.mp4)
+- [CSS Colors in 4 Min](../videos/css-colors/y2mate.com%20-%20Learn%20CSS%20colors%20in%204%20minutes%20_1080pFHR.mp4)
+- [CSS Colors Tutorial For Beginners](../videos/css-colors/y2mate.com%20-%20CSS%20Colors%20Tutorial%20for%20Beginners_1080p.mp4)
+- [CSS Colors, Hex, RGB, RGBA, Predefined Colors](../videos/css-colors/y2mate.com%20-%20CSS%20Tutorial%20%20Colors%20Hex%20RGB%20RGBA%20Predefined%20Colors%20413_1080p.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

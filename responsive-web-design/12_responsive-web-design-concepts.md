@@ -28,10 +28,10 @@ Understanding responsive web design is essential for web developers, as it allow
 
 ## 📹 Video
 Please watch the following videos:
-- [Responsive Web Design](https://www.youtube.com/watch?v=oNSX21dh6kw")
-- [Responsive Web Design 10 Basics](https://www.youtube.com/watch?v=zF6VSky4SIc)
-- [Make Your Website Responsive](https://www.youtube.com/watch?v=UUjNEMXZA-k)
-- [Making your website responsive](https://www.youtube.com/watch?v=zqvMe8T4dd8)
+- [Responsive Web Design](../videos/responsive-web-design-concepts/y2mate.com%20-%20What%20is%20Responsive%20Web%20Design_1080p.mp4)
+- [Responsive Web Design 10 Basics](../videos/responsive-web-design-concepts/y2mate.com%20-%20Responsive%20Web%20Design%20%2010%20Basics_1080p.mp4)
+- [Make Your Website Responsive](../videos/responsive-web-design-concepts/y2mate.com%20-%2024%20%20MAKE%20A%20WEBSITE%20RESPONSIVE%20FOR%20ALL%20DEVICES%20%202023%20%20Learn%20HTML%20and%20CSS%20Full%20Course%20for%20Beginners_1080pFHR.mp4)
+- [Making your website responsive](../videos/responsive-web-design-concepts/y2mate.com%20-%20Making%20Your%20Website%20Responsive_1080p.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

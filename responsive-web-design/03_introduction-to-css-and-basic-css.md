@@ -23,11 +23,11 @@ CSS is an essential skill for web developers, as it allows them to create beauti
 
 
 ## 📹 Video
-- [CSS?](https://www.youtube.com/watch?v=XPv4EeB0PJ8)
-- [What is CSS](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
-- [CSS in 5 Min](https://www.youtube.com/watch?v=Z4pCqK-V_Wo)
-- [What is CSS | CSS Explained For Beginners](https://www.youtube.com/watch?v=6vbgZnQrpbU)
-- [What is CSS | Explained](https://www.youtube.com/watch?v=YD6W4FTq-Iw)
+- [CSS?](../videos/introduction-to-css-and-basic-css/y2mate.com%20-%20What%20is%20CSS%20And%20How%20It%20Works_1080p.mp4)
+- [What is CSS in 100 Sec](../videos/introduction-to-css-and-basic-css/y2mate.com%20-%20CSS%20in%20100%20Seconds_1440p.mp4)
+- [CSS in 5 Min](../videos/introduction-to-css-and-basic-css/y2mate.com%20-%20CSS%20in%205%20minutes_1080pFHR.mp4)
+- [What is CSS | CSS Explained For Beginners](../videos/introduction-to-css-and-basic-css/y2mate.com%20-%20What%20is%20CSS%20%20%20CSS%20Explained%20For%20Beginners%20%20Web%20Development%20Tutorial%20%20Edureka_1080p.mp4)
+- [What is CSS | Explained](../videos/introduction-to-css-and-basic-css/y2mate.com%20-%20What%20Is%20CSS%20%20Explained_1080p.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

@@ -25,10 +25,10 @@ Understanding HTML forms is essential for web developers, as it allows them to c
 
 ## 📹 Video
 Please watch the following videos:
-- [HTML Forms](https://www.youtube.com/watch?v=2O8pkybH6po)
-- [Learn HTML Forms In 25 Minutes](https://www.youtube.com/watch?v=fNcJuPIZ2WE&t=37s)
-- [HTML Forms for Beginners](https://www.youtube.com/watch?v=frAGrGN00OA)
-- [HTML Forms Tutorial](https://www.youtube.com/watch?v=qelcFC6B_Nw)
+- [HTML Forms](../videos/html-forms/y2mate.com%20-%20Learn%20HTML%20forms%20in%208%20minutes%20_1080p.mp4)
+- [Learn HTML Forms In 25 Minutes](../videos/html-forms/y2mate.com%20-%20Learn%20HTML%20Forms%20In%2025%20Minutes_1080pFH.mp4)
+- [HTML Forms for Beginners](../videos/html-forms/y2mate.com%20-%20HTML%20Forms%20and%20Inputs%20%20HTML5%20Tutorial%20for%20Beginners_1080p.mp4)
+- [HTML Forms Tutorial](../videos/html-forms/y2mate.com%20-%2028%20%20HOW%20TO%20CREATE%20%20STYLE%20FORMS%20IN%20HTML%20%202023%20%20Learn%20HTML%20and%20CSS%20Full%20Course%20for%20Beginners_1080pFHR.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.

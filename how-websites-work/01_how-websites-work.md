@@ -19,17 +19,17 @@ We'll start by explaining the client-server model, which is the foundation of th
 By the end of this lesson, you'll have a solid understanding of the basic concepts that make the internet tick, and you'll be ready to dive into the world of web development with confidence.
 
 ## 📹 Video
-Watch this short video explaining [what the Client-Server architecture is](https://www.youtube.com/watch?v=SwLdKeC8scE). Client-Server architecture is the core concept that you need to understand.
+Watch this short video explaining [what the Client-Server architecture is](../videos/how-websites-work/Client%20and%20Server%20Model%20-%20Fast%20Tech%20Skills.mp4). Client-Server architecture is the core concept that you need to understand.
 
-Watch the video about [different types of Client-Server architecture](https://www.youtube.com/watch?v=ve82kSSj_Hs) discussed in the 1-Tier, 2-Tier, 3-Tier architecture video.
+Watch the video about [different types of Client-Server architecture](../videos/how-websites-work/Client-Server%20Architecture__1-Tier,%202-Tier%20,3-Tier%20architecture..mp4) discussed in the 1-Tier, 2-Tier, 3-Tier architecture video.
 
 Here are some additional video resources related to how websites work:
 
-- [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-- [How DNS Works](https://www.youtube.com/watch?v=2ZUxoi7YNgs)
-- [How HTTP Works](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [How the Internet Works in 5 Minutes](../videos/how-websites-work/y2mate.com%20-%20How%20the%20Internet%20Works%20in%205%20Minutes_480p.mp4)
+- [How DNS Works](../videos/how-websites-work/y2mate.com%20-%20How%20the%20DNS%20works_480p.mp4)
+- [How HTTP Works](../videos/how-websites-work/y2mate.com%20-%20HTTP%20Crash%20Course%20%20Exploration_1080p.mp4)
 
-To sum up, watch the [How The Web Works - The Big Picture](https://www.youtube.com/watch?v=hJHvdBlSxug) that connects all of this.
+To sum up, watch the [How The Web Works - The Big Picture](../videos/how-websites-work/y2mate.com%20-%20How%20The%20Web%20Works%20%20The%20Big%20Picture_1080p.mp4) that connects all of this.
 
 ## ✅ Challenge yourself
 _Use these questions to check what you learned during this lesson._

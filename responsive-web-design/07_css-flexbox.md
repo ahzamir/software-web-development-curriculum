@@ -25,10 +25,10 @@ Understanding CSS Flexbox is essential for web developers, as it allows them to 
 
 ## 📹 Video
 Please watch the following videos:
-- [CSS Flexbox in 100 Sec](https://www.youtube.com/watch?v=K74l26pE4YA)
-- [Learn Flexbox in 15 Minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE)
-- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
-- [CSS Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- [CSS Flexbox in 100 Sec](../videos/css-flexbox/y2mate.com%20-%20CSS%20Flexbox%20in%20100%20Seconds_1080p.mp4)
+- [Learn Flexbox in 15 Minutes](../videos/css-flexbox/y2mate.com%20-%20Learn%20Flexbox%20in%2015%20Minutes_1080p.mp4)
+- [CSS Flexbox Course](../videos/css-flexbox/y2mate.com%20-%20CSS%20Flexbox%20Course_1080p.mp4)
+- [CSS Flexbox](../videos/css-flexbox/y2mate.com%20-%20Flexbox%20CSS%20In%2020%20Minutes_1080p.mp4)
 
 ## 🔧 Instructions
 If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.
